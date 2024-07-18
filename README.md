@@ -18,8 +18,8 @@
 
 - :school: I am a `Studen` at [Technological Institute of Costa Rica (TEC)](https://www.tec.ac.cr/)
 - :technologist: **Currently working on** `Projects developed by the TEC`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:olmancastro@estudiantec.cr)
-- :nerd_face: Always believe `"You are what you loved"`
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Olman&amp;color=EA4335&amp;style=flat-square)](mailto:olmancastro@estudiantec.cr)
+- :nerd_face: Always believe `"Linux Boy"`
 
 <br>
 

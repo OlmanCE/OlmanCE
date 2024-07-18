@@ -20,7 +20,7 @@
 - :school: I am a `Studen` at [Technological Institute of Costa Rica (TEC)](https://www.tec.ac.cr/)
 - :technologist: **Currently working on** `Projects developed by the TEC`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Olman&amp;color=EA4335&amp;style=flat-square)](mailto:olmancastro@estudiantec.cr)
-- :nerd_face:`"- A passionate Linux User"`
+- :nerd_face:`"A passionate Linux User"`
 
 <br>
 
@@ -37,7 +37,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)>
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Web
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)

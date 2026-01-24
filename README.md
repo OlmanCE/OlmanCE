@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF732&background=AFB7FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF732&background=AFB7FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Enginner)](https://git.io/typing-svg)
 
 <!--About Me-->
 

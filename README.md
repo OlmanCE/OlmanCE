@@ -17,8 +17,8 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Studen` at [Technological Institute of Costa Rica (TEC)](https://www.tec.ac.cr/)
-- :technologist: **Currently working on** `Projects developed by the TEC`
+- :school: I studied at [Technological Institute of Costa Rica (TEC)](https://www.tec.ac.cr/)
+- :technologist: **Currently working on** `Personal Projects`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Olman&amp;color=EA4335&amp;style=flat-square)](mailto:olmancastro@estudiantec.cr)
 - :nerd_face:`"A passionate Linux User"`
 
